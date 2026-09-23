@@ -1,11 +1,7 @@
 {
   "allowed_machine_guids": [
-    "6979n875-g123-o724-i968-f4562v22",
-	"d111e518-e14d-4a26-a2fb-dad6f4ac552d",
-	"e0c1f4a0-ff73-4982-a420-d7f3b0b13d74",
-	"b59d3546-1ecf-49b8-aabf-7150b71f8dd3",
-	"178c6a2a-82c4-4ad8-96d5-948d00bd7599",
-	"6737105c-862f-4556-9083-55e8bf7cfadc"
+    "6979n875-g123-o724-i968-f4562v22"
+
 	
 	
   ],
@@ -14,36 +10,36 @@
 	
 	
     {
-      "name": "system/LineageEffect.u",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/LineageEffect.u"
+      "name": "system/lineageeffect.u",
+      "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/lineageeffect.u"
     },
 	{
       "name": "system/lineageeffect2a.u",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/lineageeffect2a.u"
+      "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/lineageeffect2a.u"
     },
 	{
       "name": "system/LineageEffect3a.u",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/LineageEffect3a.u"
+      "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/LineageEffect3a.u"
     },
 	{
       "name": "system/LineageSkillEffect.u",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/LineageSkillEffect.u"
+      "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/LineageSkillEffect.u"
     },
 	{
       "name": "system/x7/Skillgrp.dat",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/Skillgrp.dat"
+      "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/Skillgrp.dat"
     },
 	{
       "name": "system/x7/L2GameDataName.dat",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/L2GameDataName.dat"
+      "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/L2GameDataName.dat"
     },
 	{
       "name": "system/user.ini",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/user.ini"
+      "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/user.ini"
     },
 	{
       "name": "system/Core.dll",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/Core.dll"
+      "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/Core.dll"
     }
 
 
