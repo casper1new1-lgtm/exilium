@@ -1,81 +1,71 @@
 {
   "allowed_machine_guids": [
     "6979n875-g123-o724-i968-f4562v22",
-	"5dbb5707-5724-4790-b62e-2c4ba50c27f5",
-	"2c35e3fc-5d84-4c82-93e2-4b6f3b5b1a1b",
-	"555368f1-47cc-4cd4-a799-94cd7337bb55",
-	"72be35b7-ab10-44e5-a335-273de92f8519",
-	"66cf952a-fa42-4c8f-8ff8-266dce98ce9b",
-	"4329653e-d99d-4e3b-9f90-0e5ed3ea73b9",
-	"6a2e6468-f4e8-4693-9933-3213451057c1",
-	"4a49f379-eb92-4391-a945-75f2a8001dd8",
-	"fe3332ea-acef-4889-b285-aca1899f0756",
-	"e02a7ed7-3f3e-4f91-aef7-cf0dcfa9805f",
-	"de826724-2fa1-48a4-a20d-32e5914816ce",
-	"9d6e18e3-49b1-4289-b1a1-2a213d948eeb",
-	"bef0d259-9a81-48ed-8a1b-865e51471563",
-	"7c471367-f15e-4b2f-9ed8-33bf28c49e08",
-	"bb7702a3-3765-4464-937e-cf0d16dddc86",
-	"6e6bcd93-bf0f-4b5c-b0f7-6df74ab7357c"
-
-	
-	
- ],
-
-"protected_files": [
-  "LineageEffect.u",
-  "LineageEffect2a.u",
-  "LineageEffect3a.u",
-  "LineageSkillEffect.u",
-  "Skillgrp.dat",
-  "user.ini"
-]
-"files": [
-
-	
-	
+    "5dbb5707-5724-4790-b62e-2c4ba50c27f5",
+    "2c35e3fc-5d84-4c82-93e2-4b6f3b5b1a1b",
+    "555368f1-47cc-4cd4-a799-94cd7337bb55",
+    "72be35b7-ab10-44e5-a335-273de92f8519",
+    "66cf952a-fa42-4c8f-8ff8-266dce98ce9b",
+    "4329653e-d99d-4e3b-9f90-0e5ed3ea73b9",
+    "6a2e6468-f4e8-4693-9933-3213451057c1",
+    "4a49f379-eb92-4391-a945-75f2a8001dd8",
+    "fe3332ea-acef-4889-b285-aca1899f0756",
+    "e02a7ed7-3f3e-4f91-aef7-cf0dcfa9805f",
+    "de826724-2fa1-48a4-a20d-32e5914816ce",
+    "9d6e18e3-49b1-4289-b1a1-2a213d948eeb",
+    "bef0d259-9a81-48ed-8a1b-865e51471563",
+    "7c471367-f15e-4b2f-9ed8-33bf28c49e08",
+    "bb7702a3-3765-4464-937e-cf0d16dddc86",
+    "6e6bcd93-bf0f-4b5c-b0f7-6df74ab7357c"
+  ],
+  "protected_files": [
+    "LineageEffect.u",
+    "LineageEffect2a.u",
+    "LineageEffect3a.u",
+    "LineageSkillEffect.u",
+    "Skillgrp.dat",
+    "user.ini"
+  ],
+  "files": [
     {
       "name": "system/LineageEffect.u",
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageEffect.u"
     },
-	{
+    {
       "name": "system/LineageEffect2a.u",
       "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/LineageEffect2a.u"
     },
-	{
+    {
       "name": "system/LineageEffect3a.u",
       "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/LineageEffect3a.u"
     },
-	{
+    {
       "name": "system/LineageEffect6a.u",
       "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/LineageEffect6a.u"
     },
-	{
+    {
       "name": "system/LineageSkillEffect.u",
       "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/LineageSkillEffect.u"
     },
-	{
+    {
       "name": "system/1LineageSkillEffect.u",
       "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/1LineageSkillEffect.u"
-    }, 
-	{
+    },
+    {
       "name": "system/Skillgrp.dat",
       "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/Skillgrp.dat"
     },
-	{
+    {
       "name": "system/L2GameDataName.dat",
       "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/L2GameDataName.dat"
     },
-	{
+    {
       "name": "system/user.ini",
       "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/user.ini"
     },
-	{
+    {
       "name": "system/Core.dll",
       "url": "https://github.com/casper1new1-lgtm/exilium/raw/refs/heads/main/Core.dll"
     }
-
-
-	
   ]
 }
