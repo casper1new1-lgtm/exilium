@@ -20,8 +20,17 @@
 
 	
 	
-  ],
-  "files": [
+ ],
+
+"protected_files": [
+  "LineageEffect.u",
+  "LineageEffect2a.u",
+  "LineageEffect3a.u",
+  "LineageSkillEffect.u",
+  "Skillgrp.dat",
+  "user.ini"
+]
+"files": [
 
 	
 	
